@@ -6,7 +6,8 @@ Las formas de acoso incluyen comentarios ofensivos, orales o escritos, relaciona
 Si un miembro de la comunidad mostrara cualquier conducta abusiva, los organizadores de TegucigalpaJS pueden tomar cualquier acción que crean apropiada, incluyendo llamarle la atención o expulsarlo de la comunidad y los eventos de la misma. Si eres víctima de conductas abusivas, ves a otra persona que está siendo acosada, o tienes dudas, por favor contacta al equipo organizador inmediatamente.
 
 Organizadores:
-*Jorge Mizrain Aguilar => [@Cokydev](https://www.twitter.com/cokydev "@Cokydev")
+  
+  >*Jorge Mizrain Aguilar => [@Cokydev](https://www.twitter.com/cokydev "@Cokydev")
 
 **Si tienes preguntas o sugerencias sobre este código de conducta, por favor abre un [issue](https://github.com/tegucigalpajs/codigo-de-conducta/issues "issue")**.
 
