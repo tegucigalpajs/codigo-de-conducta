@@ -7,3 +7,5 @@ Si un miembro de la comunidad mostrara cualquier conducta abusiva, los organizad
 
 Organizadores:
 
+**Si tienes preguntas o sugerencias sobre este código de conducta, por favor abre un [issue](http://joedicastro.com "issue")**.
+
