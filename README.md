@@ -7,7 +7,7 @@ Si un miembro de la comunidad mostrara cualquier conducta abusiva, los organizad
 
 Organizadores:
   
-  >*Jorge Mizrain Aguilar => [@Cokydev](https://www.twitter.com/cokydev "@Cokydev")
+  >*Jorge Mizrain Aguilar => [@soymizra](https://www.twitter.com/soymizra "@soymizra")
 
 **Si tienes preguntas o sugerencias sobre este código de conducta, por favor abre un [issue](https://github.com/tegucigalpajs/codigo-de-conducta/issues "issue")**.
 
